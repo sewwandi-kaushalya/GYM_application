@@ -6,7 +6,7 @@ const trainers = [
     role: 'Strength Coach',
     experience: '8 YEARS EXPERIENCE',
     image:
-      './public/images/strenght.jpg',
+      './images/strenght.jpg',
     specialty: 'Strength & Muscle Building',
   },
   {
@@ -14,7 +14,7 @@ const trainers = [
     role: 'Fitness Coach',
     experience: '6 YEARS EXPERIENCE',
     image:
-      './public/images/cordinator.jpg',
+      './images/cordinator.jpg',
     specialty: 'Cardio & Conditioning',
   },
   {
@@ -22,7 +22,7 @@ const trainers = [
     role: 'Personal Trainer',
     experience: '10 YEARS EXPERIENCE',
     image:
-      './public/images/fitness.jpg',
+      './images/fitness.jpg',
     specialty: 'Personal Fitness Plans',
   },
 ];

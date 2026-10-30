@@ -6,21 +6,21 @@ import { useState } from 'react'
       title: 'Build Your Strength',
       description: 'Train with purpose and make every rep count.',
       image:
-        './public/images/hero1.jpg',
+        './images/hero1.jpg',
     },
     {
       category: 'PERSONAL TRAINING',
       title: 'Train With Experts',
       description: 'Get guidance and support from experienced trainers.',
       image:
-        './public/images/hero2.jpg',
+        './images/hero2.jpg',
     },
     {
       category: 'FITNESS PROGRAMS',
       title: 'Move With Purpose',
       description: 'Find a workout program that fits your goals.',
       image:
-        './public/images/hero3.jpg',
+        './images/hero3.jpg',
     },
   ]
 
@@ -41,7 +41,7 @@ export default function Hero() {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('./public/images/Hero.jpg')",
+            "url('./images/Hero.jpg')",
         }}
       />
 

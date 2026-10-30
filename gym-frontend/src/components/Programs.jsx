@@ -6,7 +6,7 @@ const programs = [
     description:
       'Build muscle, increase power, and develop your strength with focused weight training.',
     image:
-      './public/images/hero3.jpg',
+      './images/hero3.jpg',
     icon: 'bi bi-lightning-charge',
   },
   {
@@ -16,7 +16,7 @@ const programs = [
     description:
       'Improve your stamina, support heart health, and keep your body moving.',
     image:
-      './public/images/hero1.jpg',
+      './images/hero1.jpg',
     icon: 'bi bi-heart-pulse',
   },
   {
@@ -26,7 +26,7 @@ const programs = [
     description:
       'Get focused guidance and a workout plan designed around your fitness goals.',
     image:
-      './public/images/hero2.jpg',
+      './images/hero2.jpg',
     icon: 'bi bi-person-arms-up',
   },
 ];
